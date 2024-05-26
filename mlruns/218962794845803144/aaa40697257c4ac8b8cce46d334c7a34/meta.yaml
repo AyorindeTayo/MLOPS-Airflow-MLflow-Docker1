@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/218962794845803144/aaa40697257c4ac8b8cce46d334c7a34/artifacts
+deleted_time: 1710311625160
+end_time: 1710311235559
+entry_point_name: ''
+experiment_id: '218962794845803144'
+lifecycle_stage: deleted
+run_id: aaa40697257c4ac8b8cce46d334c7a34
+run_name: silent-smelt-666
+run_uuid: aaa40697257c4ac8b8cce46d334c7a34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710311235315
+status: 4
+tags: []
+user_id: olani

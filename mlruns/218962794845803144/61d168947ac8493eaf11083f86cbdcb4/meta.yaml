@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/218962794845803144/61d168947ac8493eaf11083f86cbdcb4/artifacts
+deleted_time: 1710311625308
+end_time: 1710309901386
+entry_point_name: ''
+experiment_id: '218962794845803144'
+lifecycle_stage: deleted
+run_id: 61d168947ac8493eaf11083f86cbdcb4
+run_name: clumsy-goose-858
+run_uuid: 61d168947ac8493eaf11083f86cbdcb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710309901001
+status: 4
+tags: []
+user_id: olani

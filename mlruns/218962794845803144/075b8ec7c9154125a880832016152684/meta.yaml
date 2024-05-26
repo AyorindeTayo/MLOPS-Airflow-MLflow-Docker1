@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/218962794845803144/075b8ec7c9154125a880832016152684/artifacts
+deleted_time: 1710311625286
+end_time: 1710309601768
+entry_point_name: ''
+experiment_id: '218962794845803144'
+lifecycle_stage: deleted
+run_id: 075b8ec7c9154125a880832016152684
+run_name: big-colt-157
+run_uuid: 075b8ec7c9154125a880832016152684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710309601491
+status: 4
+tags: []
+user_id: olani

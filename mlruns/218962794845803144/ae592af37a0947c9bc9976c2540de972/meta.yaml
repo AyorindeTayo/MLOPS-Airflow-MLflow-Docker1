@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/218962794845803144/ae592af37a0947c9bc9976c2540de972/artifacts
+end_time: 1710311480459
+entry_point_name: ''
+experiment_id: '218962794845803144'
+lifecycle_stage: active
+run_id: ae592af37a0947c9bc9976c2540de972
+run_name: rebellious-loon-48
+run_uuid: ae592af37a0947c9bc9976c2540de972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710311458812
+status: 3
+tags: []
+user_id: olani

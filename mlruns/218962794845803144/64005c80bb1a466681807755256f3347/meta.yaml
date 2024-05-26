@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/218962794845803144/64005c80bb1a466681807755256f3347/artifacts
+end_time: 1710311373225
+entry_point_name: ''
+experiment_id: '218962794845803144'
+lifecycle_stage: active
+run_id: 64005c80bb1a466681807755256f3347
+run_name: magnificent-shark-7
+run_uuid: 64005c80bb1a466681807755256f3347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710311342184
+status: 3
+tags: []
+user_id: olani

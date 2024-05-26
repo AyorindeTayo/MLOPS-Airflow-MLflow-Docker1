@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/218962794845803144/bd33e4d2ccb14f18a86fd2169cde207e/artifacts
+deleted_time: 1710311625233
+end_time: 1710311011385
+entry_point_name: ''
+experiment_id: '218962794845803144'
+lifecycle_stage: deleted
+run_id: bd33e4d2ccb14f18a86fd2169cde207e
+run_name: valuable-auk-397
+run_uuid: bd33e4d2ccb14f18a86fd2169cde207e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710311011229
+status: 4
+tags: []
+user_id: olani

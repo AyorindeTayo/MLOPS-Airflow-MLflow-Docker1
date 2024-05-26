@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/218962794845803144/2bb478ec61a44118a16f5ca1f8f019e0/artifacts
+deleted_time: 1710311625247
+end_time: 1710311180133
+entry_point_name: ''
+experiment_id: '218962794845803144'
+lifecycle_stage: deleted
+run_id: 2bb478ec61a44118a16f5ca1f8f019e0
+run_name: nervous-asp-427
+run_uuid: 2bb478ec61a44118a16f5ca1f8f019e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710311179788
+status: 4
+tags: []
+user_id: olani

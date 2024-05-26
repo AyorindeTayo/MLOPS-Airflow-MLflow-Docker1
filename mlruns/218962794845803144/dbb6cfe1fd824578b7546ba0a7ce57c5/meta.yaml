@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/218962794845803144/dbb6cfe1fd824578b7546ba0a7ce57c5/artifacts
+deleted_time: 1710311625331
+end_time: 1710310972608
+entry_point_name: ''
+experiment_id: '218962794845803144'
+lifecycle_stage: deleted
+run_id: dbb6cfe1fd824578b7546ba0a7ce57c5
+run_name: enchanting-midge-56
+run_uuid: dbb6cfe1fd824578b7546ba0a7ce57c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710310972487
+status: 4
+tags: []
+user_id: olani

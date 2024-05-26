@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/218962794845803144/5788d83f06714a839054c5ea1a78be8f/artifacts
+deleted_time: 1710311625300
+end_time: 1710310076626
+entry_point_name: ''
+experiment_id: '218962794845803144'
+lifecycle_stage: deleted
+run_id: 5788d83f06714a839054c5ea1a78be8f
+run_name: unleashed-turtle-183
+run_uuid: 5788d83f06714a839054c5ea1a78be8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710310076511
+status: 4
+tags: []
+user_id: olani

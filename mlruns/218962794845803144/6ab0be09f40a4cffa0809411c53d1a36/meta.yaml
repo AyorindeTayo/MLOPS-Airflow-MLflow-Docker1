@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/218962794845803144/6ab0be09f40a4cffa0809411c53d1a36/artifacts
+deleted_time: 1710311625311
+end_time: 1710309961905
+entry_point_name: ''
+experiment_id: '218962794845803144'
+lifecycle_stage: deleted
+run_id: 6ab0be09f40a4cffa0809411c53d1a36
+run_name: wise-roo-215
+run_uuid: 6ab0be09f40a4cffa0809411c53d1a36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710309961767
+status: 4
+tags: []
+user_id: olani
