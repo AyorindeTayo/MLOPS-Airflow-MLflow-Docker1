@@ -18,6 +18,9 @@ conda activate env1
 pip install mlflow
 ```
 ```
+pip install Airflow
+```
+```
 pip install pandas
 ```
 # Run tracking server locally 
