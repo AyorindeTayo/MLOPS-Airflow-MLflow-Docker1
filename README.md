@@ -31,3 +31,5 @@ mlflow server --host 127.0.0.1 --port 8080
 ![Imgur](https://imgur.com/BWyZW40.jpg)
 
 ![Imgur](https://imgur.com/NoKox3H.jpg)
+
+![Imgur](https://imgur.com/xAcmo4a.jpg)
