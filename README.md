@@ -27,6 +27,9 @@ pip install pandas
 ```
 mlflow server --host 127.0.0.1 --port 8080
 ```
+```
+!pip install evidently
+```
 - 4 runs was carried out by varrying the hyperparameters
 ![Imgur](https://imgur.com/BWyZW40.jpg)
 
